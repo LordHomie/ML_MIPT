@@ -1,1 +1,1 @@
-# ML_MIPT_assaignments
+# ML_MIPT_assignments
