@@ -1,1 +1,1 @@
-# ML_MIPT_knn_assignment_0_01
+# ML_MIPT_assaignments
